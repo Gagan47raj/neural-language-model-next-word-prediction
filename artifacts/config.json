@@ -1,0 +1,9 @@
+{
+  "context_size": 3,
+  "embedding_dim": 128,
+  "hidden_size": 256,
+  "dropout": 0.3,
+  "vocab_size": 3201,
+  "min_freq": 3,
+  "seed": 42
+}

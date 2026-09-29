@@ -1,0 +1,11 @@
+Context,Actual,Top-1 Prediction,Confidence,Top-5 Predictions,Top-1 Correct,Top-5 Correct
+may have single-handedly,turned,<UNK>,15.8%,"<UNK>, the, ., a, about",False,False
+chauffeur who offers,the,the,25.0%,"the, to, a, ., that",True,True
+becomes too volatile,.,.,19.4%,"., ,, to, in, for",True,True
+has many ways,to,to,69.1%,"to, of, for, in, <UNK>",True,True
+into production before,the,the,22.4%,"the, <UNK>, ., they, ,",True,True
+`` clouds of,blue,<UNK>,17.9%,"<UNK>, the, these, its, a",False,False
+when each will,adopt,be,22.6%,"be, <UNK>, receive, become, have",False,False
+pay movie producers,for,.,4.6%,"., in, <UNK>, to, for",False,True
+region than the,u.s.,<UNK>,12.2%,"<UNK>, u.s., same, country, company",False,True
+case of political,corruption,<UNK>,77.5%,"<UNK>, ., ,, u.s., a",False,False
